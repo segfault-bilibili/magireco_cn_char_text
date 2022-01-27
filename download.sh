@@ -1,0 +1,1 @@
+curl -O -v https://l3-prod-all-gs-mfsn2.bilibiligame.net/magica/resource/json_web/lobby_vo_char_text.json
