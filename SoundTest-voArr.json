@@ -302,6 +302,308 @@
                 "无法战斗"
             ]
         ],
+        "en_unofficial_translation": [
+            [
+                "01",
+                "self-introduction in the \"detail of card\" page"
+            ],
+            [
+                "02",
+                "when acquired from gacha pull"
+            ],
+            [
+                "03",
+                "clearing section ① of mahou shoujo story"
+            ],
+            [
+                "04",
+                "clearing section ② of mahou shoujo story"
+            ],
+            [
+                "05",
+                "clearing section ③ of mahou shoujo story"
+            ],
+            [
+                "06",
+                "self-intruduction when entering mahou shoujo story ①"
+            ],
+            [
+                "07",
+                "self-intruduction when entering mahou shoujo story ②"
+            ],
+            [
+                "08",
+                "self-intruduction when entering mahou shoujo story ③"
+            ],
+            [
+                "09",
+                "self-intruduction when entering mahou shoujo story ④"
+            ],
+            [
+                "10",
+                "self-intruduction when entering mahou shoujo story ⑤"
+            ],
+            [
+                "11",
+                "self-intruduction when entering mahou shoujo story ⑥"
+            ],
+            [
+                "12",
+                "self-intruduction when entering mahou shoujo story ⑦"
+            ],
+            [
+                "13",
+                "enhance"
+            ],
+            [
+                "14",
+                "enhance MAX"
+            ],
+            [
+                "15",
+                "episode Lv up"
+            ],
+            [
+                "16",
+                "1st unlock magic"
+            ],
+            [
+                "17",
+                "2nd unlock magic"
+            ],
+            [
+                "18",
+                "3rd unlock magic"
+            ],
+            [
+                "19",
+                "Magia level up"
+            ],
+            [
+                "20",
+                "awakening (promote rarity) ②"
+            ],
+            [
+                "21",
+                "awakening (promote rarity) ③"
+            ],
+            [
+                "22",
+                "awakening (promote rarity) ④"
+            ],
+            [
+                "23",
+                "awakening (promote rarity) ⑤"
+            ],
+            [
+                "24",
+                "first login of a day"
+            ],
+            [
+                "25",
+                "time variance ① between 6-9 o'clock"
+            ],
+            [
+                "26",
+                "time variance ② between 11-13 o'clock"
+            ],
+            [
+                "27",
+                "time variance ③ between 17-19 o'clock"
+            ],
+            [
+                "28",
+                "time variance ④ between 22-24 o'clock"
+            ],
+            [
+                "29",
+                "time variance ⑤ none of listed above"
+            ],
+            [
+                "30",
+                "quest (note: AP full)"
+            ],
+            [
+                "31",
+                "mirrors (note: BP full)"
+            ],
+            [
+                "32",
+                "GvG (note: unused)"
+            ],
+            [
+                "33",
+                "dialogue on tap (default ①)"
+            ],
+            [
+                "34",
+                "dialogue on tap (default ②)"
+            ],
+            [
+                "35",
+                "dialogue on tap (default ③)"
+            ],
+            [
+                "36",
+                "dialogue on tap (default ④)"
+            ],
+            [
+                "37",
+                "dialogue on tap (episode Lv2)"
+            ],
+            [
+                "38",
+                "dialogue on tap (episode Lv3)"
+            ],
+            [
+                "39",
+                "dialogue on tap (episode Lv4)"
+            ],
+            [
+                "40",
+                "dialogue on tap (episode Lv5)"
+            ],
+            [
+                "41",
+                "dialogue on tap (multiple taps) (note: hidden)"
+            ],
+            [
+                "42",
+                "when quest starts"
+            ],
+            [
+                "43",
+                "victory ①（★１、２、３）"
+            ],
+            [
+                "44",
+                "victory ②（★４）"
+            ],
+            [
+                "45",
+                "victory ③（★５）"
+            ],
+            [
+                "46",
+                "victory ④（★６）"
+            ],
+            [
+                "47",
+                "disk selected ①"
+            ],
+            [
+                "48",
+                "disk selected ②"
+            ],
+            [
+                "49",
+                "disk selected ③"
+            ],
+            [
+                "50",
+                "disk selected ④"
+            ],
+            [
+                "51",
+                "disk selected (initiating connect)"
+            ],
+            [
+                "52",
+                "disk selected (accepting Connect)"
+            ],
+            [
+                "53",
+                "1st attack ① (long dialogue)"
+            ],
+            [
+                "54",
+                "1st attack ② (long dialogue)"
+            ],
+            [
+                "55",
+                "1st attack ③ (long dialogue)"
+            ],
+            [
+                "56",
+                "2nd,3rd attack ①"
+            ],
+            [
+                "57",
+                "2nd,3rd attack ②"
+            ],
+            [
+                "58",
+                "2nd,3rd attack ③"
+            ],
+            [
+                "59",
+                "2nd attack ① (same character)"
+            ],
+            [
+                "60",
+                "2nd attack ② (same character)"
+            ],
+            [
+                "61",
+                "3rd attack ① (same character)"
+            ],
+            [
+                "62",
+                "3rd attack ② (same character)"
+            ],
+            [
+                "63",
+                "use Magia ①（★1、2、3）"
+            ],
+            [
+                "64",
+                "use Magia ②（Magia★4）"
+            ],
+            [
+                "65",
+                "use Magia ③（Magia★5）"
+            ],
+            [
+                "66",
+                "use Magia ④（Magia★6）"
+            ],
+            [
+                "67",
+                "use Doppel"
+            ],
+            [
+                "68",
+                "attacking (initiating Connect)"
+            ],
+            [
+                "69",
+                "attacking (accepting Connect)"
+            ],
+            [
+                "70",
+                "skill (target: self)"
+            ],
+            [
+                "71",
+                "skill (target: allies)"
+            ],
+            [
+                "72",
+                "skill (target: enemies)"
+            ],
+            [
+                "73",
+                "taking damage (normal)"
+            ],
+            [
+                "74",
+                "taking damage (at critical health)"
+            ],
+            [
+                "75",
+                "unable to fight (note: dying)"
+            ]
+        ],
         "jp": [
             [
                 "01",
